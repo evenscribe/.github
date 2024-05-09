@@ -1,4 +1,4 @@
-## Hi there 👋
+## “Blazing” Fast & Intuitive Logging Infrastructure For All
 
 [Join the WaitList](https://olympus-coming-soon.pages.dev)
 
