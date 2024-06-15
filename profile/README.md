@@ -1,7 +1,6 @@
-## “Blazing” Fast & Intuitive Logging Infrastructure For All
+## Performant and Intuitive Logging Infrastructure For All
 
-[Join the WaitList](https://olympus-coming-soon.pages.dev)
+[Join the WaitList](https://www.evenscribe.com)
 
-🙋‍♀️ A short introduction - Fast. Intuitive Logging Infrastructure For All <br/>
-👩‍💻 Creators - [@sang-it](https://www.github.com/sang-it) & [@vidurkhanal](https://www.github.com/vidurkhanal)
+Created by [@sang-it](https://www.github.com/sang-it) & [@vidurkhanal](https://www.github.com/vidurkhanal)
 
